@@ -15,6 +15,7 @@
 
     <link rel="stylesheet" href="css/estilo.css">
     
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
 
 </head>
 
@@ -45,7 +46,7 @@
 
     <section id="hero">
      <div class="container">
-            <h1>Suas finanças, sem complicações.</h1>
+            <h1 data-reveal>Suas finanças, sem complicações.</h1>
             <p>Organize seus gastos, defina metas e saiba exatamente pra onde seu dinheiro vai — tudo em um só lugar.</p>
             <a href="#baixar" class="btn-cta">Baixar grátis</a>
      </div>
@@ -53,8 +54,8 @@
 
     <section id="recursos">
      <div class="container">
-        <h2>O que a Finanças oferece</h2>
-        <div class="recursos-grid">
+        <h2 data-reveal>O que a Finanças oferece</h2>
+        <div class="recursos-grid" data-reveal>
             <article class="recurso">
                 <i class="bi bi-wallet2"></i>
                 <h3>Controle de Gastos</h3>
@@ -76,9 +77,9 @@
 
     <section id="como-funciona">
      <div class="container">
-        <h2>Como funciona</h2>
+        <h2 data-reveal>Como funciona</h2>
         <p>Baixe o aplicativo, conecte suas contas e comece a gerenciar suas finanças de forma simples e eficiente.</p>
-        <ol class="steps-grid">
+        <ol class="steps-grid" data-reveal>
             <li class="step">
                 <i class="bi bi-download"></i>
                 <h3>1. Baixe o App</h3>
@@ -100,8 +101,8 @@
 
     <section id="avaliacao">
      <div class="container">
-        <h2>Avaliações de quem usa</h2>
-        <div class="avaliacao-grid">
+        <h2 data-reveal>Avaliações de quem usa</h2>
+        <div class="avaliacao-grid" data-reveal>
             <blockquote class="avaliacao">
                 <span class="estrelas">★★★★★</span>
                 <p>"Parei de ser surpreendida no fim do mês. Hoje sei exatamente pra onde vai cada real."</p>
@@ -123,8 +124,8 @@
 
     <section id="planos">
      <div class="container">
-        <h2>Escolha seu plano</h2>
-        <div class="planos-grid">
+        <h2 data-reveal>Escolha seu plano</h2>
+        <div class="planos-grid" data-reveal>
         <article class="plano">
             <h3>Grátis</h3>
             <p class="preco">R$ 0<span>/mês</span></p>
@@ -154,13 +155,14 @@
 
     <section id="contato">
      <div class="container">
-        <h2>Fale conosco</h2>
+        <h2 data-reveal>Fale conosco</h2>
         <p>Tem alguma dúvida ou sugestão? Entre em contato!</p>
-        <form action="#" method="post" class="form-contato">
+        <form action="#" method="post" class="form-contato" id="formContato">
             <input type="text" name="nome" placeholder="Seu nome" required>
             <input type="email" name="email" placeholder="Seu email" required>
             <textarea name="mensagem" placeholder="Sua mensagem" required></textarea>
             <button type="submit" class="btn-cta">Enviar</button>
+            <p class="form-feedback" id="formFeedback"></p>
         </form>
      </div>
     </section>

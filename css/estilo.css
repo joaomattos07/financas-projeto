@@ -9,6 +9,10 @@
   --white: #FFFFFF;       
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -435,4 +439,35 @@ footer#footer p {
   .btn-cta {
     display: none;
   }
+}
+
+header#header.is-scrolled {
+  background: rgba(238, 240, 234, 0.92);
+  box-shadow: 0 4px 20px -10px rgba(27, 36, 32, 0.4);
+}
+
+.form-feedback {
+  text-align: center;
+  font-size: 0.9rem;
+  min-height: 20px;
+  margin: 8px 0 0;
+}
+
+.form-feedback.sucesso {
+  color: var(--emerald-dark);
+}
+
+.form-feedback.erro {
+  color: #B4483A;
+}
+
+[data-reveal] {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+[data-reveal].is-visible {
+  opacity: 1;
+  transform: translateY(0);
 }
