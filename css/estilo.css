@@ -436,9 +436,9 @@ footer#footer p {
     background: var(--ink);
   }
 
-  .btn-cta {
-    display: none;
-  }
+  .header#header .btn-cta {
+  display: none;
+}
 }
 
 header#header.is-scrolled {
