@@ -21,7 +21,7 @@ The project uses semantic HTML for a more accessible structure, responsive CSS f
 
 ## 🛠️ Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark)](https://skillicons.dev)
 
 ## 🚀 Live Demo
 
