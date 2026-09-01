@@ -1,63 +1,52 @@
-# 💰 Finanças Projeto
+# 💰 Finance Project
 
-> Landing page responsiva para uma plataforma de gestão financeira, desenvolvida com HTML, CSS e JavaScript.
+> Responsive landing page for a financial management platform, built with HTML, CSS, and JavaScript.
 
-[![Acessar demonstração](https://img.shields.io/badge/Acessar%20demonstração-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white)](https://joaomattos07.github.io/financas-projeto/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white)](https://joaomattos07.github.io/financas-projeto/)
 
-## 📌 Sobre o projeto
+## 📌 About the Project
 
-O **Finanças Projeto** é uma landing page one-page criada para apresentar uma solução de organização e controle financeiro. O foco do desenvolvimento foi construir uma interface moderna, intuitiva e adaptada a diferentes tamanhos de tela.
+**Finance Project** is a one-page landing page created to showcase a financial organization and expense management solution. The goal was to build a modern, intuitive interface that adapts to different screen sizes.
 
-O projeto utiliza HTML semântico para uma estrutura mais acessível, CSS para a estilização responsiva e JavaScript vanilla para as interações da página.
+The project uses semantic HTML for a more accessible structure, responsive CSS for styling, and vanilla JavaScript for page interactions.
 
-## ✨ Funcionalidades
+## ✨ Features
 
-- Layout responsivo para desktop, tablet e celular
-- Menu de navegação para dispositivos móveis
-- Animações e interações visuais na página
-- Formulário com validação em JavaScript
-- Estrutura one-page, com navegação entre seções
-- HTML semântico e organização de arquivos por responsabilidade
+- Responsive layout for desktop, tablet, and mobile devices
+- Mobile navigation menu
+- Page animations and visual interactions
+- Form validation with JavaScript
+- One-page structure with section navigation
+- Semantic HTML and well-organized files
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma,ps&theme=dark)](https://skillicons.dev)
 
-## 🚀 Demonstração
+## 🚀 Live Demo
 
-Acesse o projeto online: [joaomattos07.github.io/financas-projeto](https://joaomattos07.github.io/financas-projeto/)
+Access the project online: [joaomattos07.github.io/financas-projeto](https://joaomattos07.github.io/financas-projeto/)
 
-## 📁 Estrutura do projeto
+## 📁 Project Structure
 
 ```text
 financas-projeto/
-├── css/          # Estilos da página
-├── js/           # Interações e validações
-├── favicon.svg    # Ícone do site
-└── index.html     # Estrutura principal
-```
-
-## 💻 Como executar localmente
-
-1. Clone o repositório:
-
-   ```bash
+├── css/          # Page styles
+├── js/           # Interactions and validations
+├── favicon.svg   # Website icon
+└── index.html    # Main structure
+💻 Running Locally
+1. Clone the repository:
    git clone https://github.com/joaomattos07/financas-projeto.git
-   ```
-
-2. Acesse a pasta do projeto:
-
-   ```bash
+2. Go to the project folder:
    cd financas-projeto
-   ```
-
-3. Abra o arquivo `index.html` no navegador.
-
-## 👨‍💻 Autor
-
-Desenvolvido por [João Pedro de Mattos](https://github.com/joaomattos07).
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrodemattos/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedro261206@gmail.com)
+3. Open index.html in your browser.
+## 👨‍💻 Author
+Developed by João Pedro de Mattos.
+🌐 Contact
+<p>
+  <a href="https://www.linkedin.com/in/joaopedrodemattos/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
+  <a href="mailto:joaopedro261206@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" /></a>
+  <a href="https://github.com/joaomattos07"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /></a>
+</p>
+```
