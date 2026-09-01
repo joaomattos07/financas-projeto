@@ -1,6 +1,6 @@
 # 💰 Finanças Projeto
 
-> Landing page responsiva para uma plataforma de gestão financeira, desenvolvida com HTML, CSS e JavaScript puro.
+> Landing page responsiva para uma plataforma de gestão financeira, desenvolvida com HTML, CSS e JavaScript.
 
 ## 📌 Sobre o projeto
 
