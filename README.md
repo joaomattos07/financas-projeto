@@ -21,7 +21,7 @@ The project uses semantic HTML for a more accessible structure, responsive CSS f
 
 ## 🛠️ Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma,ps&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
 
 ## 🚀 Live Demo
 
@@ -35,18 +35,32 @@ financas-projeto/
 ├── js/           # Interactions and validations
 ├── favicon.svg   # Website icon
 └── index.html    # Main structure
-💻 Running Locally
+```
+
+## 💻 Running Locally
+
 1. Clone the repository:
+
+   ```bash
    git clone https://github.com/joaomattos07/financas-projeto.git
+   ```
+
 2. Go to the project folder:
+
+   ```bash
    cd financas-projeto
-3. Open index.html in your browser.
+   ```
+
+3. Open `index.html` in your browser.
+
 ## 👨‍💻 Author
-Developed by João Pedro de Mattos.
-🌐 Contact
+
+Developed by [João Pedro de Mattos](https://github.com/joaomattos07).
+
+## 🌐 Contact
+
 <p>
   <a href="https://www.linkedin.com/in/joaopedrodemattos/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
   <a href="mailto:joaopedro261206@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" /></a>
   <a href="https://github.com/joaomattos07"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /></a>
 </p>
-```
