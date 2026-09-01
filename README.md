@@ -2,6 +2,8 @@
 
 > Landing page responsiva para uma plataforma de gestão financeira, desenvolvida com HTML, CSS e JavaScript.
 
+[![Acessar demonstração](https://img.shields.io/badge/Acessar%20demonstração-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white)](https://joaomattos07.github.io/financas-projeto/)
+
 ## 📌 Sobre o projeto
 
 O **Finanças Projeto** é uma landing page one-page criada para apresentar uma solução de organização e controle financeiro. O foco do desenvolvimento foi construir uma interface moderna, intuitiva e adaptada a diferentes tamanhos de tela.
@@ -22,6 +24,10 @@ O projeto utiliza HTML semântico para uma estrutura mais acessível, CSS para a
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 🚀 Demonstração
+
+Acesse o projeto online: [joaomattos07.github.io/financas-projeto](https://joaomattos07.github.io/financas-projeto/)
 
 ## 📁 Estrutura do projeto
 
