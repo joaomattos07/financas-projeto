@@ -62,5 +62,4 @@ Developed by [João Pedro de Mattos](https://github.com/joaomattos07).
 <p>
   <a href="https://www.linkedin.com/in/joaopedrodemattos/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
   <a href="mailto:joaopedro261206@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" /></a>
-  <a href="https://github.com/joaomattos07"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /></a>
 </p>
